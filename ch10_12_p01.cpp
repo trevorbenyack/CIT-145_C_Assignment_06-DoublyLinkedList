@@ -6,7 +6,7 @@
 
 /*
  * Name: Trevor Benyack
- * Date: 2020-06-04
+ * Date: 2020-07-04
  * Class: CIT-145-Z01B
  * Assignment
  * Notes: This program is an exercise in implementing a doubly linked list in C. The user can add or delete a char one
